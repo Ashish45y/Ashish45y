@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm enthusiaastic about coding and using technology.I'm a Android developer and I like make app and using android studio and learn the new thing about android.
+An Experienced Android developer with 1.5+ years of expertise in designing and developing innovative mobile
+apps. Possesses expertise in developing mobile application with JAVA and Kotlin as well as knowledge of
+popular libraries and frameworks and updated myself with the latest technology.Worked on some open-
+source project as well.
 
 
 ## 🌐 Socials:
